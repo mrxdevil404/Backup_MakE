@@ -12,5 +12,6 @@ Jobs:
   3. Upload Specific Extention In Your Device like .py
   4. Check New Files Which has Specific Extention To Upload
   5. Fix Problems Related Ti Logic Errors
+If You Want To Turn Off to sound edit in voice.txt make value 0 Not Delete It ..
 For Any Explains Contact Me:
 https://www.facebook.com/Error404.0040
