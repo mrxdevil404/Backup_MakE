@@ -1,0 +1,4 @@
+mega.py
+colorama
+gtts
+pyinstaller
